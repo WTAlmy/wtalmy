@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Preferred contact method is via '''walmy@ucsc.edu'''
+Preferred contact method is via ```mailto:walmy@ucsc.edu```
 
 I receive a high volume of spam calls and as such my phone is often on mute
 (FYI: don't register a domain with your personal cell #)
