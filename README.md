@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Preferred contact method is via '''walmy@ucsc.edu'''
+
+I receive a high volume of spam calls and as such my phone is often on mute
+(FYI: don't register a domain with your personal cell #)
+
 <!--
 **WTAlmy/wtalmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
