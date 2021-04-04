@@ -5,7 +5,7 @@ Preferred contact method is via ```walmy@ucsc.edu```
 I receive a high volume of spam calls and as such my phone is often on mute
 (FYI: don't register a domain with your personal cell #)
 
-### Index of github/WTAlmy pinned posts
+### Pinned Repositories
 1. CSCareers.us
 - Uses Java Spring, Python Flask, MySQL, React.js, Google Cloud (VM, SQL, Storage, App Engine)
 - Made by our team of 5 in March for LA Hacks 2021
