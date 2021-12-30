@@ -3,7 +3,7 @@
 **Resume**: [wtalmy.ml](http://www.wtalmy.ml)<br>
 Preferred contact method is via ```walmy@ucsc.edu```
 
-I receive a high volume of spam calls and as such my phone is often on mute
+I receive a high volume of spam calls and as such my phone is often on mute<br>
 (FYI: don't register a domain with your personal cell #)
 
 ### Pinned Repositories
