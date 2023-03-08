@@ -1,10 +1,5 @@
 ### Hi there 👋
-
-**Resume**: ~~[wtalmy.ml](http://www.wtalmy.ml)~~<br>
 Preferred contact method is via ```walmy@ucsc.edu```
-
-I receive a high volume of spam calls and as such my phone is often on mute<br>
-(FYI: don't register a domain with your personal cell #)
 
 ### Pinned Repositories
 1. ##### CSCareers.us
@@ -31,18 +26,3 @@ I receive a high volume of spam calls and as such my phone is often on mute<br>
 - A few of my projects from September 2020 and earlier, in Python, C, and Java
 6. ##### CTAI-Test
 - A snapshot of my starting code at CTAI, to give you an idea of what I worked with
-
-<!--
-**WTAlmy/wtalmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
