@@ -22,7 +22,3 @@ Preferred contact method is via ```walmy@ucsc.edu```
 - Written by me in February 2021 to fix a personal issue I had with a large Downloads folder
 - Organizes files in specified directory (Downloads) by date added, modified, opened, created
 - Places old & unused files into a "Clutter" folder within each directory automatically
-5. ##### Sept-20
-- A few of my projects from September 2020 and earlier, in Python, C, and Java
-6. ##### CTAI-Test
-- A snapshot of my starting code at CTAI, to give you an idea of what I worked with
