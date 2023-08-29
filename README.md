@@ -1,5 +1,5 @@
 ### Hi there 👋
-Preferred contact method is via ```walmy@ucsc.edu```
+Preferred contact method is via ```walmy@berkeley.edu```
 
 ### Pinned Repositories
 1. ##### CSCareers.us
